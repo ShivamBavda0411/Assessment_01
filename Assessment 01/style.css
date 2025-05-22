@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: cadetblue;
+
+    
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    background-color: aliceblue;
+    
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+    
+}
+
+form{
+    margin: 15px;
+    width: 800px;
+     
+}
+input{
+    flex: 1;
+    padding: 10px;
+    /* box-sizing: border-box; */
+}
+.form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
